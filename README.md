@@ -7,28 +7,28 @@ Nella cartella `design` trovate il file "wireframe.png" con la porzione di pagin
 ## Esecuzione del compito
 Eseguite le seguenti operazioni:
 
-- [ ] accedete con il vostro account personale (**non sbagliate password!**)
-- [ ] fate il fork di questo progetto
-- [ ] copiate l'URL relativo al **vostro** progetto
-- [ ] aprite git-bash su Windows
-- [ ] navigate nella cartella `~/Documents/<classe>/<cognome>` con il comando `cd` (change directory), creando la cartella se necessario
-- [ ] scaricate il progetto con `git clone <URL-vostro-repo>`
-- [ ] navigate nella cartella appena creata
-- [ ] aprite Esplora Risorse
-- [ ] navigate nel repository scaricato ed aprite il file `design/wireframe.png`
-- [ ] aprite Eclipse
-- [ ] importate il progetto con `File->Import->General->Existing Project Into Workspace` e **selezionate la cartella `code`**
-- [ ] implementate nel progetto Eclipse il wireframe appena aperto (vedi note sotto)
+- [x] accedete con il vostro account personale (**non sbagliate password!**)
+- [x] fate il fork di questo progetto
+- [x] copiate l'URL relativo al **vostro** progetto
+- [x] aprite git-bash su Windows
+- [x] navigate nella cartella `~/Documents/<classe>/<cognome>` con il comando `cd` (change directory), creando la cartella se necessario
+- [x] scaricate il progetto con `git clone <URL-vostro-repo>`
+- [x] navigate nella cartella appena creata
+- [x] aprite Esplora Risorse
+- [x] navigate nel repository scaricato ed aprite il file `design/wireframe.png`
+- [x] aprite Eclipse
+- [x] importate il progetto con `File->Import->General->Existing Project Into Workspace` e **selezionate la cartella `code`**
+- [x] implementate nel progetto Eclipse il wireframe appena aperto (vedi note sotto)
 
 Quando avete finito e **comunque 7 minuti prima** dello scadere del tempo (vi verrà ricordato dal docente), dovete pubblicare il codice seguendo la procedura:
-- [ ] salvate il vostro codice Java
-- [ ] da git-bash, assicuratevi di essere all'interno della cartella del repository (il prompt deve finire con `(master)`)
-- [ ] fate `git status` per controllare i file modificati
-- [ ] aggiungete il file che volete pubblicare con `git add <nome-file>`
-- [ ] fate il commit delle modifiche con `git commit`
-- [ ] mettete un commento **significativo**, ad esempio "Consegna compito" se state facendo il commit di consegna
-- [ ] pubblicate il codice con `git push`
-- [ ] rispondete alla issue sul mio repository originale con il testo "Consegnato"
+- [x] salvate il vostro codice Java
+- [x] da git-bash, assicuratevi di essere all'interno della cartella del repository (il prompt deve finire con `(master)`)
+- [x] fate `git status` per controllare i file modificati
+- [x] aggiungete il file che volete pubblicare con `git add <nome-file>`
+- [x] fate il commit delle modifiche con `git commit`
+- [x] mettete un commento **significativo**, ad esempio "Consegna compito" se state facendo il commit di consegna
+- [x] pubblicate il codice con `git push`
+- [x] rispondete alla issue sul mio repository originale con il testo "Consegnato"
 
 # Note implementazione progetto
 Fate girare il vostro progetto il più spesso possibile per controllare che non sia corretto.
